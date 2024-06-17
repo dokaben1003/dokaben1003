@@ -10,7 +10,3 @@ Let's explore the world of data and its exciting possibilities together! 🚀
 ### Tech Stack
 - 🛠 Lang & Framework: Vue, Javascript, python, C#
 - ⛏ Interest: Machine/Deep Learning, Unity
-
-
-https://www.kaggle.com/akihirokkkkk
-https://qiita.com/dokaben
