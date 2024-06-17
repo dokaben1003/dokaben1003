@@ -13,3 +13,4 @@ Let's explore the world of data and its exciting possibilities together! 🚀
 
 
 https://www.kaggle.com/akihirokkkkk
+https://qiita.com/dokaben
